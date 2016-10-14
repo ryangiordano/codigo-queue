@@ -2,6 +2,7 @@ node_modules
 typings
 tsd_typings/
 npm-debug.log
+firebase.config.ts
 dist/
 .idea
 .DS_Store
